@@ -35,6 +35,9 @@
 - TMDB Image CDN URL
 - Made the Browse page looks amazing
 - More Custom hooks for MovieList API
+- GPT Search Page
+- GPT Search Bar
+- Multi-language Feature
 
 
 # Features
