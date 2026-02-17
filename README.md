@@ -38,6 +38,15 @@
 - GPT Search Page
 - GPT Search Bar
 - Multi-language Feature
+- Get GEMINI Api Key
+- Gpt Search API Call
+- fetched gptMoviesSuggestions from TMDB
+- created gptSlice added data
+- Reused Movie List component to make movie suggestion container
+- Memoization
+- Added .env file
+- Adding .env file to gitignore
+- Made Site Responsive
 
 
 # Features
@@ -54,3 +63,9 @@
 - NetflixGPT
     - search Bar
     - Movie Suggestions
+
+
+# Project Setup
+- Before starting the project add .env file and add TMDB and OPENAI KEY into it.
+  - VITE_GEMINI_API_KEY: key
+  - VITE_TMDB_API_KEY: key
